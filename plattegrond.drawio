@@ -100,6 +100,18 @@
         <mxCell id="ETHkC9z561oUvNQaJvP0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1860" y="976" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ETHkC9z561oUvNQaJvP0-30" value="2.00 m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETHkC9z561oUvNQaJvP0-31" value="1.80 m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETHkC9z561oUvNQaJvP0-32" value="2.00 m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1056" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ETHkC9z561oUvNQaJvP0-33" value="1.80 m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="936" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
